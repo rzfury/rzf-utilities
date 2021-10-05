@@ -1,0 +1,12 @@
+{
+  "name": "rzf-utilities",
+  "version": "0.1.0",
+  "description": "Filled with utilities that I might need for every projects I working on.",
+  "main": "./index.js",
+  "typings": "index.d.ts",
+  "keywords": [
+    "utilities"
+  ],
+  "author": "RZFury",
+  "license": "MIT"
+}
