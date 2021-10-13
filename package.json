@@ -1,7 +1,10 @@
 {
   "name": "rzf-utilities",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Filled with utilities that I might need for every projects I working on.",
+  "repository": {
+    "url": "https://github.com/rzfury/rzf-utilities/"
+  },
   "main": "./index.js",
   "typings": "index.d.ts",
   "keywords": [
